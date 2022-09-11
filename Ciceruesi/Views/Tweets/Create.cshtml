@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
     <div class="container-fluid">
         <a class="navbar-brand"></a>
         <div class="d-sm-inline-flex justify-content-between">
@@ -18,13 +18,13 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group" style="width: 500px; margin-bottom: 20px;">
                 <label asp-for="Title" class="control-label">Your name</label>
-                <input asp-for="Title" class="form-control" />
+                <input asp-for="Title" class="form-control bg-dark text-light" />
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Body" class="control-label"  style="width: 90%;">What's on your mind</label>
-                <textarea asp-for="Body" class="form-control" rows="5"></textarea>
-                <span asp-validation-for="Body" class="text-danger"></span>
+                <textarea asp-for="Body" class="form-control bg-dark text-light" rows="5"></textarea>
+                <span asp-validation-for="Body" class="text-danger "></span>
             </div>
 
             <div class="form-group text-center">

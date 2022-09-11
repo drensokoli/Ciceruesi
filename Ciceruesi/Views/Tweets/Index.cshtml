@@ -3,19 +3,23 @@
 @{
     ViewData["Title"] = "Index";
 }
-<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 position-relative">
+<br/>
+<br/>
+<br/>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-4">
     <div class="container-fluid">
-        <a class="navbar-brand">Check out what's happening</a>
+        <a class="navbar-brand  text-light ">Check out what's happening</a>
         <div class="d-sm-inline-flex justify-content-between">
             <a asp-action="Create"><button type="button" class="btn btn-outline-primary text-end">Create</button></a>
         </div>
     </div>
 </nav>
+<br/>
 
 @foreach (var item in Model) {
 <div class="container">
         <div class="row justify-content-center">
-            <div class="card" style="width:80%;">
+            <div class="card text-light bg-dark border-light" style="width:80%;">
                 <div class="card-body">
                 <h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
                 <h6 style="font-size: 13px">@Html.DisplayFor(modelItem => item.Created)</h6>
@@ -23,10 +27,13 @@
 
                 <p class="card-text">@Html.DisplayFor(modelItem => item.Body)</p>
 
+                   @* <a asp-action="Details" asp-route-id="@item.Id">
+                        <button type="button" class="btn btn-outline-warning">Details</button>
+                    </a>*@
                     <a asp-action="Edit" asp-route-id="@item.Id">
                         <button type="button" class="btn btn-outline-warning">Edit</button>
                     </a>
-                    
+                    <a> </a>
                     <a asp-action="Delete" asp-route-id="@item.Id">
                         <button type="button" class="btn btn-outline-danger">Delete</button>
                     </a>
