@@ -8,65 +8,85 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ciceruesi
 build_property.RootNamespace = Ciceruesi
-build_property.ProjectDir = F:\Dren\.NET\Ciceruesi\Ciceruesi\
+build_property.ProjectDir = F:\Dren\Kurse\Ciceruesi\Ciceruesi\Ciceruesi\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Dren\.NET\Ciceruesi\Ciceruesi
+build_property.MSBuildProjectDirectory = F:\Dren\Kurse\Ciceruesi\Ciceruesi\Ciceruesi
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Home/Index.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Home/Privacy.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Shared/Error.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Shared/_LoginPartial.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Tweets/Create.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tweets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdlZXRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Tweets/Delete.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tweets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdlZXRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Tweets/Details.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tweets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdlZXRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Tweets/Edit.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tweets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdlZXRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Tweets/Index.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Tweets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdlZXRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/_ViewImports.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/_ViewStart.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Dren/.NET/Ciceruesi/Ciceruesi/Views/Shared/_Layout.cshtml]
+[F:/Dren/Kurse/Ciceruesi/Ciceruesi/Ciceruesi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o9zykpbk6t

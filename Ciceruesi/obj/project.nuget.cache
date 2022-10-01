@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/yGkZn0RRY6UtNVZV8mfBZkvkhjZCI05zKolJnR6c7ruLJvg8d3d0m7rquvBjFemv4J4vhvunTC2h8REeBZOg==",
+  "dgSpecHash": "7NvrsaAccAT5tLOm/K/tqARgpXHNs2F+jv45JpwMRBHdTxqzA6dS9VUlOm287bmYMEYzPPpfR6UuALZHTZADAQ==",
   "success": true,
-  "projectFilePath": "F:\\Dren\\.NET\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj",
+  "projectFilePath": "F:\\Dren\\Kurse\\Ciceruesi\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drens\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\drens\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

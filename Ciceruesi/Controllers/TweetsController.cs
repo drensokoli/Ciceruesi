@@ -9,10 +9,12 @@ using Ciceruesi.Data;
 using Ciceruesi.Models;
 using Microsoft.AspNetCore.Authorization;
 
-namespace Ciceruesi.Controllers
-{
-    public class TweetsController : Controller
+namespace Ciceruesi.Controllers;
+
+
+public class TweetsController : Controller
     {
+
         private readonly ApplicationDbContext _context;
 
         public TweetsController(ApplicationDbContext context)
@@ -161,4 +163,4 @@ namespace Ciceruesi.Controllers
           return (_context.Tweet?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
-}
+

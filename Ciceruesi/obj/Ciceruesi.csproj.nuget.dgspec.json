@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Dren\\.NET\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj": {}
+    "F:\\Dren\\Kurse\\Ciceruesi\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj": {}
   },
   "projects": {
-    "F:\\Dren\\.NET\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj": {
+    "F:\\Dren\\Kurse\\Ciceruesi\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Dren\\.NET\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj",
+        "projectUniqueName": "F:\\Dren\\Kurse\\Ciceruesi\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj",
         "projectName": "Ciceruesi",
-        "projectPath": "F:\\Dren\\.NET\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj",
+        "projectPath": "F:\\Dren\\Kurse\\Ciceruesi\\Ciceruesi\\Ciceruesi\\Ciceruesi.csproj",
         "packagesPath": "C:\\Users\\drens\\.nuget\\packages\\",
-        "outputPath": "F:\\Dren\\.NET\\Ciceruesi\\Ciceruesi\\obj\\",
+        "outputPath": "F:\\Dren\\Kurse\\Ciceruesi\\Ciceruesi\\Ciceruesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\drens\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,5 +11,6 @@ namespace Ciceruesi.Data
         {
         }
         public DbSet<Ciceruesi.Models.Tweet>? Tweet { get; set; }
+        public DbSet<Ciceruesi.Models.Test>? Test { get; set; }
     }
 }
