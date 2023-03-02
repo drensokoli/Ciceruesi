@@ -4,7 +4,7 @@ metadata:
   name: ciceruesi
   description: .NET MVC app
   annotations:
-   backstage.io/techdocs-ref: value
+   backstage.io/techdocs-ref: dir: .
   tags:
     - go
     - website
