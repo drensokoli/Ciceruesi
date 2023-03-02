@@ -18,5 +18,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
-  owner: drensokoli@gmail.com
+  owner: dren.s@gjirafa.com
   lifecycle: production
