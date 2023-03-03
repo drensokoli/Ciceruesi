@@ -5,8 +5,6 @@ metadata:
   description: |
     Ciceruesi is a .NET application that uses MVC architectural pattern
   links:
-    - title: Documentation
-      url: http://localhost:3004/docs/default/Component/Ciceruesi:
     - title: Spotted by Locals
       url: https://spottedbylocals.com/prishtina
     - title: Instagran 
