@@ -1,18 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: Ciceruesi
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    Ciceruesi is a .NET application that uses MVC architectural pattern
   links:
-    - title: Website
-      url: http://backstage.io
     - title: Documentation
-      url: https://backstage.io/docs
-    - title: Storybook
-      url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+      url: http://localhost:3004/docs/default/Component/Ciceruesi:
+    - title: Spotted by Locals
+      url: https://spottedbylocals.com/prishtina
+    - title: Instagran 
+      url: https://www.instagram.com/drensokoli/
   annotations:
     github.com/project-slug: drensokoli/Ciceruesi
     backstage.io/techdocs-ref: dir:.
